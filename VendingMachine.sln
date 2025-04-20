@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{A641979D-D3DB-418E-AE0F-9DD5F38ADB59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A641979D-D3DB-418E-AE0F-9DD5F38ADB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A641979D-D3DB-418E-AE0F-9DD5F38ADB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A641979D-D3DB-418E-AE0F-9DD5F38ADB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A641979D-D3DB-418E-AE0F-9DD5F38ADB59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
